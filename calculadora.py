@@ -11,4 +11,6 @@ def subtrair(a, b):
 
 def media(numeros):
     return sum(numeros) / len(numeros)
-    
+
+def multiplicar(a, b):
+    return a * b   
